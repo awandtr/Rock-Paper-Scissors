@@ -1,4 +1,4 @@
-# Rock-paper-Scissors
+# Rock-Paper-Scissors
 This is a simple Rock Paper Scissors Web Application made by me.
 
 -- Instructions --
